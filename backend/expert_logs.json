@@ -1,0 +1,1602 @@
+[
+  {
+    "elevator_id": "elevator_04",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.172612Z"
+  },
+  {
+    "elevator_id": "elevator_40",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.172648Z"
+  },
+  {
+    "elevator_id": "elevator_03",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172655Z"
+  },
+  {
+    "elevator_id": "elevator_23",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.172664Z"
+  },
+  {
+    "elevator_id": "elevator_39",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172670Z"
+  },
+  {
+    "elevator_id": "elevator_40",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172675Z"
+  },
+  {
+    "elevator_id": "elevator_13",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.172680Z"
+  },
+  {
+    "elevator_id": "elevator_39",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172686Z"
+  },
+  {
+    "elevator_id": "elevator_33",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.172693Z"
+  },
+  {
+    "elevator_id": "elevator_21",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172698Z"
+  },
+  {
+    "elevator_id": "elevator_28",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172703Z"
+  },
+  {
+    "elevator_id": "elevator_21",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.172718Z"
+  },
+  {
+    "elevator_id": "elevator_28",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.172723Z"
+  },
+  {
+    "elevator_id": "elevator_05",
+    "problem": "Cabin fan not running",
+    "cause": "Burnt fan motor coil",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.172740Z"
+  },
+  {
+    "elevator_id": "elevator_37",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.172747Z"
+  },
+  {
+    "elevator_id": "elevator_02",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172755Z"
+  },
+  {
+    "elevator_id": "elevator_01",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.172762Z"
+  },
+  {
+    "elevator_id": "elevator_08",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172770Z"
+  },
+  {
+    "elevator_id": "elevator_36",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.172775Z"
+  },
+  {
+    "elevator_id": "elevator_39",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.172783Z"
+  },
+  {
+    "elevator_id": "elevator_09",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.172788Z"
+  },
+  {
+    "elevator_id": "elevator_26",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172793Z"
+  },
+  {
+    "elevator_id": "elevator_21",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172797Z"
+  },
+  {
+    "elevator_id": "elevator_09",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.172801Z"
+  },
+  {
+    "elevator_id": "elevator_39",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.172806Z"
+  },
+  {
+    "elevator_id": "elevator_11",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.172811Z"
+  },
+  {
+    "elevator_id": "elevator_33",
+    "problem": "Cabin fan not running",
+    "cause": "Burnt fan motor coil",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172815Z"
+  },
+  {
+    "elevator_id": "elevator_21",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.172819Z"
+  },
+  {
+    "elevator_id": "elevator_35",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172824Z"
+  },
+  {
+    "elevator_id": "elevator_14",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172841Z"
+  },
+  {
+    "elevator_id": "elevator_26",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172846Z"
+  },
+  {
+    "elevator_id": "elevator_14",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172851Z"
+  },
+  {
+    "elevator_id": "elevator_17",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.172855Z"
+  },
+  {
+    "elevator_id": "elevator_37",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172860Z"
+  },
+  {
+    "elevator_id": "elevator_01",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172864Z"
+  },
+  {
+    "elevator_id": "elevator_03",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.172869Z"
+  },
+  {
+    "elevator_id": "elevator_32",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172873Z"
+  },
+  {
+    "elevator_id": "elevator_25",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.172878Z"
+  },
+  {
+    "elevator_id": "elevator_18",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.172882Z"
+  },
+  {
+    "elevator_id": "elevator_01",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172889Z"
+  },
+  {
+    "elevator_id": "elevator_03",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.172894Z"
+  },
+  {
+    "elevator_id": "elevator_35",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172899Z"
+  },
+  {
+    "elevator_id": "elevator_01",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.172904Z"
+  },
+  {
+    "elevator_id": "elevator_33",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.172908Z"
+  },
+  {
+    "elevator_id": "elevator_19",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172912Z"
+  },
+  {
+    "elevator_id": "elevator_38",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172916Z"
+  },
+  {
+    "elevator_id": "elevator_02",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172931Z"
+  },
+  {
+    "elevator_id": "elevator_34",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.172936Z"
+  },
+  {
+    "elevator_id": "elevator_28",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172944Z"
+  },
+  {
+    "elevator_id": "elevator_26",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172949Z"
+  },
+  {
+    "elevator_id": "elevator_06",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172953Z"
+  },
+  {
+    "elevator_id": "elevator_14",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.172958Z"
+  },
+  {
+    "elevator_id": "elevator_09",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.172962Z"
+  },
+  {
+    "elevator_id": "elevator_33",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172967Z"
+  },
+  {
+    "elevator_id": "elevator_11",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172971Z"
+  },
+  {
+    "elevator_id": "elevator_07",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.172975Z"
+  },
+  {
+    "elevator_id": "elevator_36",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.172980Z"
+  },
+  {
+    "elevator_id": "elevator_02",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.172984Z"
+  },
+  {
+    "elevator_id": "elevator_25",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.172989Z"
+  },
+  {
+    "elevator_id": "elevator_37",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.172993Z"
+  },
+  {
+    "elevator_id": "elevator_02",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.172997Z"
+  },
+  {
+    "elevator_id": "elevator_30",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173002Z"
+  },
+  {
+    "elevator_id": "elevator_20",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173007Z"
+  },
+  {
+    "elevator_id": "elevator_11",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173011Z"
+  },
+  {
+    "elevator_id": "elevator_23",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173016Z"
+  },
+  {
+    "elevator_id": "elevator_23",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173020Z"
+  },
+  {
+    "elevator_id": "elevator_11",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173028Z"
+  },
+  {
+    "elevator_id": "elevator_04",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173033Z"
+  },
+  {
+    "elevator_id": "elevator_40",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173037Z"
+  },
+  {
+    "elevator_id": "elevator_09",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173042Z"
+  },
+  {
+    "elevator_id": "elevator_36",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173048Z"
+  },
+  {
+    "elevator_id": "elevator_18",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173053Z"
+  },
+  {
+    "elevator_id": "elevator_40",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173057Z"
+  },
+  {
+    "elevator_id": "elevator_05",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173062Z"
+  },
+  {
+    "elevator_id": "elevator_26",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173066Z"
+  },
+  {
+    "elevator_id": "elevator_38",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173073Z"
+  },
+  {
+    "elevator_id": "elevator_33",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173080Z"
+  },
+  {
+    "elevator_id": "elevator_20",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173087Z"
+  },
+  {
+    "elevator_id": "elevator_27",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173095Z"
+  },
+  {
+    "elevator_id": "elevator_16",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173100Z"
+  },
+  {
+    "elevator_id": "elevator_38",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173104Z"
+  },
+  {
+    "elevator_id": "elevator_05",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173110Z"
+  },
+  {
+    "elevator_id": "elevator_33",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173114Z"
+  },
+  {
+    "elevator_id": "elevator_03",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173119Z"
+  },
+  {
+    "elevator_id": "elevator_02",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173127Z"
+  },
+  {
+    "elevator_id": "elevator_10",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173132Z"
+  },
+  {
+    "elevator_id": "elevator_27",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173136Z"
+  },
+  {
+    "elevator_id": "elevator_24",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173141Z"
+  },
+  {
+    "elevator_id": "elevator_15",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173145Z"
+  },
+  {
+    "elevator_id": "elevator_06",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173149Z"
+  },
+  {
+    "elevator_id": "elevator_38",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173154Z"
+  },
+  {
+    "elevator_id": "elevator_27",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173158Z"
+  },
+  {
+    "elevator_id": "elevator_29",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173162Z"
+  },
+  {
+    "elevator_id": "elevator_27",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173167Z"
+  },
+  {
+    "elevator_id": "elevator_24",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173173Z"
+  },
+  {
+    "elevator_id": "elevator_29",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173177Z"
+  },
+  {
+    "elevator_id": "elevator_24",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173182Z"
+  },
+  {
+    "elevator_id": "elevator_18",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173186Z"
+  },
+  {
+    "elevator_id": "elevator_17",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173190Z"
+  },
+  {
+    "elevator_id": "elevator_29",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173195Z"
+  },
+  {
+    "elevator_id": "elevator_23",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173199Z"
+  },
+  {
+    "elevator_id": "elevator_17",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173206Z"
+  },
+  {
+    "elevator_id": "elevator_26",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173211Z"
+  },
+  {
+    "elevator_id": "elevator_02",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173368Z"
+  },
+  {
+    "elevator_id": "elevator_25",
+    "problem": "Cabin fan not running",
+    "cause": "Burnt fan motor coil",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173390Z"
+  },
+  {
+    "elevator_id": "elevator_19",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173400Z"
+  },
+  {
+    "elevator_id": "elevator_25",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173410Z"
+  },
+  {
+    "elevator_id": "elevator_13",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173419Z"
+  },
+  {
+    "elevator_id": "elevator_11",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173428Z"
+  },
+  {
+    "elevator_id": "elevator_34",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173436Z"
+  },
+  {
+    "elevator_id": "elevator_25",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173445Z"
+  },
+  {
+    "elevator_id": "elevator_14",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173454Z"
+  },
+  {
+    "elevator_id": "elevator_21",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173462Z"
+  },
+  {
+    "elevator_id": "elevator_05",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173479Z"
+  },
+  {
+    "elevator_id": "elevator_08",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173488Z"
+  },
+  {
+    "elevator_id": "elevator_22",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173496Z"
+  },
+  {
+    "elevator_id": "elevator_06",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173506Z"
+  },
+  {
+    "elevator_id": "elevator_15",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173514Z"
+  },
+  {
+    "elevator_id": "elevator_17",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173522Z"
+  },
+  {
+    "elevator_id": "elevator_07",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173531Z"
+  },
+  {
+    "elevator_id": "elevator_10",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173540Z"
+  },
+  {
+    "elevator_id": "elevator_22",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173552Z"
+  },
+  {
+    "elevator_id": "elevator_17",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173565Z"
+  },
+  {
+    "elevator_id": "elevator_09",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173574Z"
+  },
+  {
+    "elevator_id": "elevator_32",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173582Z"
+  },
+  {
+    "elevator_id": "elevator_32",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173589Z"
+  },
+  {
+    "elevator_id": "elevator_06",
+    "problem": "Cabin fan not running",
+    "cause": "Burnt fan motor coil",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173597Z"
+  },
+  {
+    "elevator_id": "elevator_33",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173605Z"
+  },
+  {
+    "elevator_id": "elevator_39",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173612Z"
+  },
+  {
+    "elevator_id": "elevator_40",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173621Z"
+  },
+  {
+    "elevator_id": "elevator_13",
+    "problem": "Cabin fan not running",
+    "cause": "Burnt fan motor coil",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173629Z"
+  },
+  {
+    "elevator_id": "elevator_06",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173642Z"
+  },
+  {
+    "elevator_id": "elevator_38",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173651Z"
+  },
+  {
+    "elevator_id": "elevator_19",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173659Z"
+  },
+  {
+    "elevator_id": "elevator_35",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173667Z"
+  },
+  {
+    "elevator_id": "elevator_01",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173675Z"
+  },
+  {
+    "elevator_id": "elevator_02",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173682Z"
+  },
+  {
+    "elevator_id": "elevator_31",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173692Z"
+  },
+  {
+    "elevator_id": "elevator_28",
+    "problem": "Cabin fan not running",
+    "cause": "Burnt fan motor coil",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173700Z"
+  },
+  {
+    "elevator_id": "elevator_19",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173713Z"
+  },
+  {
+    "elevator_id": "elevator_18",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173725Z"
+  },
+  {
+    "elevator_id": "elevator_17",
+    "problem": "Cabin fan not running",
+    "cause": "Burnt fan motor coil",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173733Z"
+  },
+  {
+    "elevator_id": "elevator_33",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173741Z"
+  },
+  {
+    "elevator_id": "elevator_39",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173749Z"
+  },
+  {
+    "elevator_id": "elevator_40",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173757Z"
+  },
+  {
+    "elevator_id": "elevator_29",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173765Z"
+  },
+  {
+    "elevator_id": "elevator_05",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173773Z"
+  },
+  {
+    "elevator_id": "elevator_14",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173781Z"
+  },
+  {
+    "elevator_id": "elevator_23",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173789Z"
+  },
+  {
+    "elevator_id": "elevator_06",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173802Z"
+  },
+  {
+    "elevator_id": "elevator_37",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173810Z"
+  },
+  {
+    "elevator_id": "elevator_29",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173819Z"
+  },
+  {
+    "elevator_id": "elevator_04",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173826Z"
+  },
+  {
+    "elevator_id": "elevator_24",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173835Z"
+  },
+  {
+    "elevator_id": "elevator_10",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173843Z"
+  },
+  {
+    "elevator_id": "elevator_19",
+    "problem": "Elevator stops between floors",
+    "cause": "Encoder feedback interruption",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173851Z"
+  },
+  {
+    "elevator_id": "elevator_22",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173859Z"
+  },
+  {
+    "elevator_id": "elevator_27",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173872Z"
+  },
+  {
+    "elevator_id": "elevator_29",
+    "problem": "Cabin fan not running",
+    "cause": "Burnt fan motor coil",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173886Z"
+  },
+  {
+    "elevator_id": "elevator_14",
+    "problem": "Cabin fan not running",
+    "cause": "Burnt fan motor coil",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173894Z"
+  },
+  {
+    "elevator_id": "elevator_37",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173902Z"
+  },
+  {
+    "elevator_id": "elevator_12",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173910Z"
+  },
+  {
+    "elevator_id": "elevator_38",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173918Z"
+  },
+  {
+    "elevator_id": "elevator_03",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173926Z"
+  },
+  {
+    "elevator_id": "elevator_17",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173933Z"
+  },
+  {
+    "elevator_id": "elevator_04",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.173941Z"
+  },
+  {
+    "elevator_id": "elevator_01",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173949Z"
+  },
+  {
+    "elevator_id": "elevator_12",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.173961Z"
+  },
+  {
+    "elevator_id": "elevator_21",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.173974Z"
+  },
+  {
+    "elevator_id": "elevator_40",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173982Z"
+  },
+  {
+    "elevator_id": "elevator_19",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.173990Z"
+  },
+  {
+    "elevator_id": "elevator_16",
+    "problem": "Elevator light not working",
+    "cause": "Loose neutral wire in ceiling light circuit",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.173998Z"
+  },
+  {
+    "elevator_id": "elevator_08",
+    "problem": "Cabin fan not running",
+    "cause": "Burnt fan motor coil",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.174006Z"
+  },
+  {
+    "elevator_id": "elevator_29",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.174031Z"
+  },
+  {
+    "elevator_id": "elevator_05",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.174039Z"
+  },
+  {
+    "elevator_id": "elevator_32",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Multimeter, Screwdriver set, Wrench, Cleaning cloths.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.174047Z"
+  },
+  {
+    "elevator_id": "elevator_01",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.174061Z"
+  },
+  {
+    "elevator_id": "elevator_23",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.174073Z"
+  },
+  {
+    "elevator_id": "elevator_39",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.174081Z"
+  },
+  {
+    "elevator_id": "elevator_36",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.174089Z"
+  },
+  {
+    "elevator_id": "elevator_17",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.174097Z"
+  },
+  {
+    "elevator_id": "elevator_25",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.174106Z"
+  },
+  {
+    "elevator_id": "elevator_13",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.174114Z"
+  },
+  {
+    "elevator_id": "elevator_31",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.174122Z"
+  },
+  {
+    "elevator_id": "elevator_38",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.174130Z"
+  },
+  {
+    "elevator_id": "elevator_05",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.174139Z"
+  },
+  {
+    "elevator_id": "elevator_37",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.174151Z"
+  },
+  {
+    "elevator_id": "elevator_40",
+    "problem": "Elevator not responding to hall call",
+    "cause": "Open circuit in call relay wiring",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.174160Z"
+  },
+  {
+    "elevator_id": "elevator_19",
+    "problem": "Elevator jerks when starting",
+    "cause": "Drive inverter acceleration ramp misconfiguration",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.174168Z"
+  },
+  {
+    "elevator_id": "elevator_05",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.174176Z"
+  },
+  {
+    "elevator_id": "elevator_02",
+    "problem": "Elevator doors not closing properly",
+    "cause": "Door obstruction sensor misalignment",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.174184Z"
+  },
+  {
+    "elevator_id": "elevator_14",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_05",
+    "timestamp": "2025-11-06T19:15:32.174195Z"
+  },
+  {
+    "elevator_id": "elevator_04",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_03",
+    "timestamp": "2025-11-06T19:15:32.174203Z"
+  },
+  {
+    "elevator_id": "elevator_22",
+    "problem": "Elevator making noise",
+    "cause": "Worn traction sheave bearing",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_04",
+    "timestamp": "2025-11-06T19:15:32.174210Z"
+  },
+  {
+    "elevator_id": "elevator_30",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.174222Z"
+  },
+  {
+    "elevator_id": "elevator_16",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.174235Z"
+  },
+  {
+    "elevator_id": "elevator_17",
+    "problem": "Overload alarm false triggering",
+    "cause": "Load sensor miscalibration",
+    "steps": "Tools Required: Laptop with drive software, Torque wrench, Safety gloves.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.174243Z"
+  },
+  {
+    "elevator_id": "elevator_19",
+    "problem": "Display not showing floor correctly",
+    "cause": "Faulty position sensor",
+    "steps": "Tools Required: Bearing puller, Socket wrench set, Lubricant grease.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_02",
+    "timestamp": "2025-11-06T19:15:32.174251Z"
+  },
+  {
+    "elevator_id": "elevator_16",
+    "problem": "Cabin fan not running",
+    "cause": "Burnt fan motor coil",
+    "steps": "Tools Required: Infrared sensor calibrator, Alignment gauge, Multimeter.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.174259Z"
+  },
+  {
+    "elevator_id": "elevator_03",
+    "problem": "Elevator moving slowly",
+    "cause": "Hydraulic oil degradation or contamination",
+    "steps": "Tools Required: Hydraulic oil tester, Funnel, Drain pan, Replacement seals.\n\nSteps:\n1. Turn off the main elevator power supply.\n2. Inspect the related component visually for faults.\n3. Use appropriate diagnostic tools to confirm malfunction.\n4. Replace or repair the defective part.\n5. Reassemble, power on, and test full operation.\n6. Record maintenance actions in the service log.",
+    "expert_id": "expert_01",
+    "timestamp": "2025-11-06T19:15:32.174266Z"
+  }
+]
