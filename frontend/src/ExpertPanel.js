@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import "./ExpertPanel.css"; // ✅ Make sure this file is in the same folder
+import "./ExpertPanel.css";
 
 // --- MOCKED AUTH HOOK ---
 const useAuth = () => {
@@ -17,7 +17,7 @@ const useAuth = () => {
 // Utility function to generate a readable ISO timestamp
 const getTimestamp = () => new Date().toISOString();
 
-// Utility for exponential backoff (crucial for API calls)
+// Utility for exponential backoff
 const fetchDataWithRetry = async (url, options, retries = 3) => {
   for (let i = 0; i < retries; i++) {
     try {
@@ -32,9 +32,7 @@ const fetchDataWithRetry = async (url, options, retries = 3) => {
     } catch (error) {
       if (i < retries - 1) {
         const delay = Math.pow(2, i) * 1000;
-        console.warn(
-          `Fetch attempt ${i + 1} failed. Retrying in ${delay}ms...`
-        );
+        console.warn(`Fetch attempt ${i + 1} failed. Retrying in ${delay}ms...`);
         await new Promise((resolve) => setTimeout(resolve, delay));
       } else {
         throw error;
@@ -45,6 +43,7 @@ const fetchDataWithRetry = async (url, options, retries = 3) => {
 
 const ExpertPanel = () => {
   const { user, signOut } = useAuth();
+  const [elevatorId, setElevatorId] = useState(""); // 🆕 NEW FIELD
   const [problem, setProblem] = useState("");
   const [cause, setCause] = useState("");
   const [steps, setSteps] = useState("");
@@ -71,6 +70,7 @@ const ExpertPanel = () => {
         logsToDisplay = data.logs.metadatas
           .map((meta, index) => ({
             id: data.logs.ids[index],
+            elevator_id: meta.elevator_id || "N/A", // 🆕 include elevator_id
             problem: meta.problem || "N/A",
             cause: meta.cause || "N/A",
             steps: meta.steps || "N/A",
@@ -87,10 +87,7 @@ const ExpertPanel = () => {
     } catch (error) {
       console.error("Error fetching logs:", error);
       setMessage(
-        `🔴 Error fetching logs. Is the /get_logs endpoint implemented? ${error.message.substring(
-          0,
-          60
-        )}...`
+        `🔴 Error fetching logs. ${error.message.substring(0, 60)}...`
       );
     } finally {
       setLoading(false);
@@ -99,6 +96,7 @@ const ExpertPanel = () => {
 
   useEffect(() => {
     if (user) {
+      // eslint-disable-next-line react-hooks/exhaustive-deps
       fetchLogs();
     }
   }, [user]);
@@ -112,8 +110,8 @@ const ExpertPanel = () => {
       return;
     }
 
-    if (!problem.trim() || !cause.trim() || !steps.trim()) {
-      setMessage("Please fill in all three fields (Problem, Cause, Steps).");
+    if (!elevatorId.trim() || !problem.trim() || !cause.trim() || !steps.trim()) {
+      setMessage("Please fill in all fields including Elevator ID.");
       return;
     }
 
@@ -121,6 +119,7 @@ const ExpertPanel = () => {
 
     const logData = {
       expert_id: expertId,
+      elevator_id: elevatorId.trim(), // 🆕 Include in payload
       problem: problem.trim(),
       cause: cause.trim(),
       steps: steps.trim(),
@@ -137,6 +136,7 @@ const ExpertPanel = () => {
       const result = await response.json();
       setMessage(`✅ Success! Log stored with ID: ${result.id}`);
 
+      setElevatorId("");
       setProblem("");
       setCause("");
       setSteps("");
@@ -167,6 +167,22 @@ const ExpertPanel = () => {
       <section className="section-card">
         <h2>Submit New Expert Log</h2>
         <form onSubmit={handleLogSubmit}>
+          {/* 🆕 Elevator ID */}
+          <div className="form-group">
+            <label htmlFor="elevatorId">
+              Elevator ID (Which elevator does this issue belong to?)
+            </label>
+            <input
+              id="elevatorId"
+              type="text"
+              value={elevatorId}
+              onChange={(e) => setElevatorId(e.target.value)}
+              placeholder="e.g., ELEVATOR_001"
+              disabled={loading || !user}
+              className="input-text"
+            />
+          </div>
+
           <div className="form-group">
             <label htmlFor="problem">
               1. Problem / Symptom (What was the reported issue?)
@@ -196,9 +212,7 @@ const ExpertPanel = () => {
           </div>
 
           <div className="form-group">
-            <label htmlFor="steps">
-              3. Detailed Fixing Steps (Action Plan)
-            </label>
+            <label htmlFor="steps">3. Detailed Fixing Steps (Action Plan)</label>
             <textarea
               id="steps"
               value={steps}
@@ -254,6 +268,9 @@ const ExpertPanel = () => {
                   <span className="log-timestamp">{log.timestamp}</span>
                 </div>
                 <div className="log-item-details">
+                  <p>
+                    <strong>Elevator ID:</strong> {log.elevator_id}
+                  </p>
                   <p>
                     <strong>Problem:</strong> {log.problem}
                   </p>

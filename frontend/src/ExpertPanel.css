@@ -280,3 +280,27 @@ body {
 .log-list::-webkit-scrollbar-track {
   background: #1e293b;
 }
+/* ===== Input Field Styling (for Elevator ID) ===== */
+.input-text {
+  width: 100%;
+  padding: 14px 16px;
+  background: rgba(15, 23, 42, 0.8);
+  border: 1px solid #334155;
+  border-radius: 10px;
+  color: #e2e8f0;
+  font-size: 1rem;
+  box-sizing: border-box;
+  transition: border-color 0.25s, box-shadow 0.25s;
+}
+
+.input-text:focus {
+  border-color: #38bdf8;
+  outline: none;
+  box-shadow: 0 0 10px rgba(56, 189, 248, 0.3);
+}
+
+.input-text:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
