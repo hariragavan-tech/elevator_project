@@ -4,20 +4,32 @@ import { searchKnowledge, persistLog, chatWithAI } from "./api";
 
 const MOCK_EXPERT_ID = "technician-mock-123";
 
-export default function ChatBox({ initialLog, onNewLog, expertId = MOCK_EXPERT_ID }) {
+export default function ChatBox({
+  initialLog,
+  onNewLog,
+  expertId = MOCK_EXPERT_ID,
+  onElevatorIdChange, // ✅ Added prop to send Elevator ID to parent
+}) {
   const [messages, setMessages] = useState([]);
   const [input, setInput] = useState("");
-  const [elevatorId, setElevatorId] = useState(""); // optional
+  const [elevatorId, setElevatorId] = useState(""); // ✅ Optional elevator ID
   const [isLoading, setIsLoading] = useState(false);
   const [logStatus, setLogStatus] = useState("Ready");
   const messagesEndRef = useRef(null);
 
-  // Auto scroll
+  // ✅ Auto-scroll chat view to bottom when new messages come in
   useEffect(() => {
     messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
   }, [messages]);
 
-  // Load from previous logs if available
+  // ✅ Notify parent component when elevator ID changes
+  useEffect(() => {
+    if (onElevatorIdChange) {
+      onElevatorIdChange(elevatorId);
+    }
+  }, [elevatorId, onElevatorIdChange]);
+
+  // ✅ Load previous log into chat if selected from side panel
   useEffect(() => {
     if (initialLog && initialLog.user_query && initialLog.ai_response) {
       const queryMessage = { role: "user", text: initialLog.user_query };
@@ -38,20 +50,26 @@ export default function ChatBox({ initialLog, onNewLog, expertId = MOCK_EXPERT_I
     }
   }, [initialLog]);
 
+  // ✅ Save search result logs to backend
   async function handlePersistLog(userQuery, searchResults) {
     setLogStatus("Saving...");
     const saved = await persistLog(expertId, userQuery, searchResults, elevatorId);
     setLogStatus(saved ? "Log Saved" : "Error Saving Log");
-    if (saved && onNewLog) onNewLog();
+    if (saved && onNewLog) onNewLog(); // refresh log list in ChatPage
   }
 
+  // ✅ Send user query and get AI answer
   async function sendQuery(e) {
     e.preventDefault();
     const userQuery = input.trim();
     if (!userQuery || isLoading || !expertId) return;
 
     const userMessage = { role: "user", text: userQuery };
-    setMessages((prev) => [...prev, userMessage, { role: "assistant", text: "🔍 Searching knowledge base..." }]);
+    setMessages((prev) => [
+      ...prev,
+      userMessage,
+      { role: "assistant", text: "🔍 Searching knowledge base..." },
+    ]);
     setInput("");
     setIsLoading(true);
     setLogStatus("Processing...");
@@ -60,46 +78,53 @@ export default function ChatBox({ initialLog, onNewLog, expertId = MOCK_EXPERT_I
       // 🧠 Step 1: Retrieve related logs from backend
       const searchResults = await searchKnowledge(userQuery, elevatorId);
 
-      // 🧩 Step 2: Build context for AI to make response human-friendly
+      // 🧩 Step 2: Prepare context for AI for natural response
       let context = "";
       if (searchResults && searchResults.length > 0 && searchResults[0].problem !== "Error") {
-        const readableLogs = searchResults.map((r, i) =>
-          `Log ${i + 1}: The issue reported was "${r.problem}". The cause identified was "${r.cause}". The technician fixed it by "${r.steps}".`
-        ).join("\n");
+        const readableLogs = searchResults
+          .map(
+            (r, i) =>
+              `Log ${i + 1}: Problem - "${r.problem}". Cause - "${r.cause}". Fixing Steps - "${r.steps}".`
+          )
+          .join("\n");
 
-        context = `You are an expert elevator maintenance assistant. Here are previous logs from technicians:\n${readableLogs}\n\nNow answer this technician's question naturally and clearly. If useful, reference the logs (e.g., "Based on Log 1...").`;
+        context = `You are a senior elevator maintenance assistant helping new technicians. 
+Here are previous repair logs:\n${readableLogs}\n
+Now, based on these past experiences, provide a professional, step-by-step fix guide for the technician’s issue in clear points.
+Do NOT suggest contacting experts. Assume you are the expert guiding them directly.`;
       } else {
-        context = "No relevant logs found. Respond based on your general elevator repair knowledge.";
+        context = `No similar logs were found. Use your elevator repair knowledge to answer this problem with step-by-step guidance.`;
       }
 
-      // 🗣️ Step 3: Build chat messages for LLM
+      // 🗣️ Step 3: Create message structure for the model
       const chatMessages = [
         {
           role: "system",
-          content: "You are a helpful and knowledgeable elevator maintenance assistant. Give clear, concise, and friendly answers.",
+          content:
+            "You are a knowledgeable elevator maintenance assistant helping technicians troubleshoot issues. Always provide your answer in a structured, calm, and encouraging way. Give fixes in bullet points under 'Fixing Steps'.",
         },
         {
           role: "user",
-          content: `${context}\n\nTechnician's question: "${userQuery}"`,
+          content: `Technician's Query: "${userQuery}"\n\n${context}`,
         },
       ];
 
-      // 💬 Step 4: Get AI response from Ollama model
+      // 💬 Step 4: Request AI response from Ollama (Phi-3)
       const aiReply = await chatWithAI(chatMessages);
 
-      // 🪄 Step 5: Update UI
+      // 🧾 Step 5: Update UI with AI message
       const finalAIMessage = {
         role: "ai",
         text: aiReply,
-        results: searchResults, // still keeps retrieved results for history
+        results: searchResults,
       };
 
       setMessages((prev) => {
-        const temp = prev.slice(0, -1); // remove loading message
+        const temp = prev.slice(0, -1); // remove "loading" message
         return [...temp, finalAIMessage];
       });
 
-      // 💾 Step 6: Save log for reference
+      // 💾 Step 6: Save log to backend for record
       handlePersistLog(userQuery, searchResults);
     } catch (err) {
       console.error("❌ Chat error:", err);
@@ -116,6 +141,7 @@ export default function ChatBox({ initialLog, onNewLog, expertId = MOCK_EXPERT_I
 
   return (
     <>
+      {/* --- Top Status Bar --- */}
       <div className="chat-top">
         <span
           className={`log-status ${
@@ -130,6 +156,7 @@ export default function ChatBox({ initialLog, onNewLog, expertId = MOCK_EXPERT_I
         </span>
       </div>
 
+      {/* --- Chat Message Area --- */}
       <div className="messages" ref={messagesEndRef}>
         {messages.map((m, i) => (
           <ChatMessage key={i} message={m} />
@@ -137,7 +164,7 @@ export default function ChatBox({ initialLog, onNewLog, expertId = MOCK_EXPERT_I
         <div ref={messagesEndRef} />
       </div>
 
-      {/* 🆔 Optional Elevator ID input */}
+      {/* --- Elevator ID Field --- */}
       <div className="elevator-id-input">
         <input
           type="text"
@@ -150,6 +177,7 @@ export default function ChatBox({ initialLog, onNewLog, expertId = MOCK_EXPERT_I
         />
       </div>
 
+      {/* --- Query Input Field --- */}
       <form className="chat-input" onSubmit={sendQuery}>
         <input
           type="text"
